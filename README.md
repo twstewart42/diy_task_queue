@@ -1,10 +1,10 @@
-<h1>Task Execution queue</h1>
+<h1>Task Execution Queue</h1>
 
 
-<h3>Prequistie</h3>
+<h3>prerequisites</h3>
 Install Python 2.7  
 
-Install <a href="https://github.com/twstewart42/notes-wiki/tree/master/rabbitmq">RabbitMQ</a> on either a single node or a cluster of masters
+Install and Configure <a href="https://github.com/twstewart42/notes-wiki/tree/master/rabbitmq">RabbitMQ</a> on either a single node or a cluster of masters
 
 <h3>How to use</h3>
 <body>
