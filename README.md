@@ -35,9 +35,9 @@ Open 2nd window, or on differnet machine with access to same project files:
     [x] Requesting rpc
     [x] Requesting rpc
     [x] Requesting rpc
-    [.] Got '<runtask.Tasker instance at 0x7f3e038757a0>'
-    [.] Got '<runtask.Tasker instance at 0x7f3e038757a0>'
-    [.] Got '<runtask.Tasker instance at 0x7f3e038757a0>'
+    [.] Got 'runtask.Tasker instance at 0x7f3e038757a0'
+    [.] Got 'runtask.Tasker instance at 0x7f3e038757a0'
+    [.] Got 'runtask.Tasker instance at 0x7f3e038757a0'
 </pre>
 
 Will send three tasks at the same time to the rpc_server_multi to be executed.
