@@ -1,10 +1,19 @@
 #!/usr/bin/evn python
+#################
+#
+# runtask.py - Python Class that will execute the message
+# Author: Tom Stewart
+# You have my permission to use this in any way. Open Source
+#
+###################
+
+
 from __future__ import absolute_import
 import subprocess
 import os
 
 def demote(user_uid, user_gid):
-    'Demote task to run as wx user'
+    'Demote task to run as non-root user'
     def result():
         #print('starting demotion')
         os.setgid(user_gid)

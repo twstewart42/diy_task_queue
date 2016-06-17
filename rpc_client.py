@@ -1,4 +1,11 @@
 #!/usr/bin/env python
+#################
+#
+# rpc_client.py written to submit new tasks into the queue
+# Author: Tom Stewart
+# You have my permission to use this in any way. Open Source
+#
+###################
 import pika
 import uuid
 import sys

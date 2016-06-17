@@ -1,4 +1,13 @@
 #!/usr/bin/env python
+#################
+#
+# rpc_server_multi.py - multi-threaded version of rpc_server.py
+# Author: Tom Stewart
+# You have my permission to use this in any way. Open Source
+#
+###################
+
+
 import pika
 from runtask import Tasker
 from multiprocessing import Pool as ThreadPool
