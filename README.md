@@ -57,7 +57,7 @@ user    0m0.000s
 sys     0m0.001s
 starting demotion #The demotion is set to force the task to run as a non-root user.
 finished demotion
-Linux bfezdxappa02.zedxinc.com 3.10.0-229.20.1.el7.x86_64 #1 SMP Tue Nov 3 19:10
+Linux machine01.redacted.com 3.10.0-229.20.1.el7.x86_64 #1 SMP Tue Nov 3 19:10
 None
  [x] Done
 
